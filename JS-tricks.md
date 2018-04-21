@@ -1,6 +1,6 @@
-#Javascript y jQuery
+# Javascript y jQuery
 
-####Recopilatorio de funciones en js y jQuery
+#### Recopilatorio de funciones en js y jQuery
 Este recopilatorio es más genérico que la sección de js en el documento MD "Comand-list". Pretende recopilar combinaciones de funciones.
 
 ## Index
