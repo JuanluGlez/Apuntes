@@ -121,8 +121,7 @@ gulp.task('default', function() {
 //ejecute las tareas puestas en la array (second param)
 /*gulp.task('default',['css'], function(){
 	
-});*/
-´´´
+});*/ ´´´
 
 ## 3.4 Workflow con gulp
 
