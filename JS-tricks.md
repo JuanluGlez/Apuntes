@@ -194,24 +194,3 @@ function second(){
     $(this).toggleClass("animationclass");
 }
 ```
-
-# Animaciones al hacer clic
-
-1. Hay que hacer dos clases: una con los estilos y otra con la animación
-2. También hacemos dos id: uno con un nombre y al otro le añadimos un 2. Esto lo hacemos para poder aplicar la animación a más de un elemento.
-3. Colocamos en el html, tanto la clase con los estilos, como el id1 en unos y el id2 en otros.
-4. Definimos en el estilo de la animación cómo queremos que sea.
-5. Las animaciones están en la carpeta de `01_Resourses/css`, en el archivo `animate.css`
-
-
-```
-$(document).on("ready", first);
-
-function first(){
-    $("#id1, #id2").on("click", second);
-}
-
-function second(){
-    $(this).toggleClass("animationclass");
-}
-```
