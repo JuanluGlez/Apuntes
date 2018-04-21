@@ -1,15 +1,15 @@
-#Javascript y jQuery
+# Javascript y jQuery
 
-####Recopilatorio de funciones en js y jQuery
+#### Recopilatorio de funciones en js y jQuery
 Este recopilatorio es más genérico que la sección de js en el documento MD "Comand-list". Pretende recopilar combinaciones de funciones.
 
-##Index
+## Index
 
 1. Sustitución de clases
 
-#1.Sustitución de clases
+# 1.Sustitución de clases
 
-##1.1.Con toggle
+## 1.1.Con toggle
 
 1. Creamos 2 clases: la primera para estilar el botón, la segunda para añadir el texto al botón y la tercera para hacer el cambio.
 
@@ -39,7 +39,7 @@ function cambiarTexto(){
 
 ```
 
-##1.2.Sustitución de clases con condicionales
+## 1.2.Sustitución de clases con condicionales
 
 1. Creamos 2 clases: la primera para estilar el botón, la segunda para añadir el texto al botón y la tercera para hacer el cambio.
 

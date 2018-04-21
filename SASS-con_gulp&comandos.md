@@ -26,7 +26,7 @@ gulp.task('default', function() {
     gulp.watch('./src/*.html', ['html']);
     gulp.watch('./dist/*.html').on('change', browserSync.reload);
 })
-´´´
+```
 
 2. E instalarlo en elentorno de trabajo: `npm install gulp-sass --save-dev´
 
