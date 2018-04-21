@@ -13,7 +13,7 @@
 ## 3.2.Instalación de Gulp
 
 1. Instalar por terminal (Linux/Mac) o descargar el instalador (Windows) descargando el ejecutable en [nodejs.org](https://nodejs.org)
-2. A través de la termina comprobar qué versión tenemos de node.js tenemos instalado. ``node -v``. _Podemos usar el la termianl de [GitBash](https://git-scm.com/)_
+2. A través de la terminal CMD comprobar qué versión tenemos de node.js tenemos instalado. ``node -v``. _Podemos usar el la termianl de [GitBash](https://git-scm.com/) también._
 3. Ahora instalamos gulp ``npm install -g gulp`` Para Mac o Linux ``npm sudo install -g gulp``
 4. Para asegurarnos de que se ha instalado correctamente ``gulp -v``
 
@@ -123,6 +123,7 @@ gulp.task('default', function() {
 	
 });*/
 ´´´
+
 ## 3.4 Workflow con gulp
 
 * Para iniciar una tarea en gulp: `gulp nombre-de-latarea´

@@ -15,7 +15,7 @@ _Versión 2.0_ `Última actualización 14 abril 2018´
 
 ## 1.1.Configuración de la terminal
 
-Si nunca hemos usado git nos tenemos que bajar [GitBash](https://git-scm.com/)_ y configurar la terminal con nuestros datos y el repositorio remoto con el que vamos a trabajar.
+Si nunca hemos usado git nos tenemos que bajar [GitBash](https://git-scm.com/) y configurar la terminal con nuestros datos y el repositorio remoto con el que vamos a trabajar.
 
 * Comprobar cual es la configuración actual `git config --global --list´
 * Si hay otro usuario que no queremos: Primero, elimina el usuario actual (nombre y correo): `git config --global --unset-all user.name´ `git config --global --unset-all user.email´
