@@ -52,10 +52,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk 
-´´´
+```
 
 
-* Crear gitignore si es un nuevo proyecto: `touch .gitignore´
+* Crear gitignore si es un nuevo proyecto: `touch .gitignore`
 1. Comprobar qué se se ha añadido al HEAD: `git status`
 2. Bajarme lo que está en el repo: `git pull origin master`
 3. Comprobar los commits anteriores: `git log´
