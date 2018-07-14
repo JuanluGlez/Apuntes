@@ -19,8 +19,8 @@ Si nunca hemos usado git nos tenemos que bajar [GitBash](https://git-scm.com/) y
 
 * Comprobar cual es la configuración actual `git config --global --list´
 * Si hay otro usuario que no queremos: Primero, elimina el usuario actual (nombre y correo): `git config --global --unset-all user.name´ `git config --global --unset-all user.email´
-* Nombre: `git config –global user.name “nombre”`
-* Email: `git config global user.email example@example.com`
+* Nombre: `git config -–global user.name “nombre”`
+* Email: `git config global --user.email example@example.com`
 
 ## 1.2.Flujo de trabajo con git, el día a día
 
